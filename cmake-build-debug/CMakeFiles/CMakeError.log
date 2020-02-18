@@ -1,0 +1,32 @@
+Determining if the C compiler works failed with the following output:
+Change Dir: E:/路径追踪全局光照/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):E:/BaiduNetdiskDownload/mgw/mingw64/bin/mingw32-make.exe cmTC_0ea46/fast && E:/BaiduNetdiskDownload/mgw/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_0ea46.dir\build.make CMakeFiles/cmTC_0ea46.dir/build
+mingw32-make.exe[1]: Entering directory 'E:/路径追踪全局光照/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_0ea46.dir/testCCompiler.c.obj
+E:\BaiduNetdiskDownload\mgw\mingw64\bin\gcc.exe    -o CMakeFiles\cmTC_0ea46.dir\testCCompiler.c.obj   -c E:\璺緞杩借釜鍏ㄥ眬鍏夌収\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c
+gcc.exe: error: E:\璺緞杩借釜鍏ㄥ眬鍏夌収\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c: No such file or directory
+gcc.exe: fatal error: no input files
+compilation terminated.
+mingw32-make.exe[1]: *** [CMakeFiles\cmTC_0ea46.dir\build.make:65: CMakeFiles/cmTC_0ea46.dir/testCCompiler.c.obj] Error 1
+mingw32-make.exe[1]: Leaving directory 'E:/路径追踪全局光照/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe: *** [Makefile:120: cmTC_0ea46/fast] Error 2
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: E:/路径追踪全局光照/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):E:/BaiduNetdiskDownload/mgw/mingw64/bin/mingw32-make.exe cmTC_e9366/fast && E:/BaiduNetdiskDownload/mgw/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_e9366.dir\build.make CMakeFiles/cmTC_e9366.dir/build
+mingw32-make.exe[1]: Entering directory 'E:/路径追踪全局光照/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_e9366.dir/testCCompiler.c.obj
+E:\BaiduNetdiskDownload\mgw\mingw64\bin\gcc.exe    -o CMakeFiles\cmTC_e9366.dir\testCCompiler.c.obj   -c E:\璺緞杩借釜鍏ㄥ眬鍏夌収\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c
+gcc.exe: error: E:\璺緞杩借釜鍏ㄥ眬鍏夌収\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c: No such file or directory
+gcc.exe: fatal error: no input files
+compilation terminated.
+mingw32-make.exe[1]: *** [CMakeFiles\cmTC_e9366.dir\build.make:65: CMakeFiles/cmTC_e9366.dir/testCCompiler.c.obj] Error 1
+mingw32-make.exe[1]: Leaving directory 'E:/路径追踪全局光照/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe: *** [Makefile:120: cmTC_e9366/fast] Error 2
+
+
+
