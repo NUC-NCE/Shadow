@@ -1,2 +1,8 @@
-# Shadow
+﻿# Shadow
 全局光照路径追踪算法
+
+
+
+通过Clion可以直接导入项目运行。
+通过工具类中Sphere结构体数组spheres加载图像资源，经过处理后输出ppm格式的图像
+ppm格式在linux下可直接打开，windows下需要使用一些工具或用python转码后方可查看
